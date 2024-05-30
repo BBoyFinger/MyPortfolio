@@ -11,7 +11,7 @@ const socials = [
   { icon: <FaGithub />, path: "https://github.com/BBoyFinger" },
   {
     icon: <FaLinkedinIn />,
-    path: "https://www.linkedin.com/in/vu-ngoc-tu-4986a32a7/",
+    path: "https://www.linkedin.com/in/tuvngdev1502",
   },
   { icon: <FaFacebook />, path: "https://www.facebook.com/tuvngch18505/" },
   { icon: <FaInstagram />, path: "https://www.instagram.com/vnt.1502/" },
