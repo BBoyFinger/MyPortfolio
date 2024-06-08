@@ -94,6 +94,16 @@ const projects = [
     live: "",
     github: "",
   },
+  {
+    num: "07",
+    category: "Frontend",
+    title: "Dashboard",
+    description: "Learning NextJS ",
+    stack: [{ name: "NextJS" }, { name: "Tailwin css" }],
+    image: "/assets/work/project7.png",
+    live: "https://next-js-dashboard-9mdj.vercel.app/dashboard",
+    github: "https://github.com/BBoyFinger/NextJS-Dashboard",
+  },
 ];
 
 const Work = () => {
