@@ -104,6 +104,16 @@ const projects = [
     live: "https://next-js-dashboard-9mdj.vercel.app/dashboard",
     github: "https://github.com/BBoyFinger/NextJS-Dashboard",
   },
+  {
+    num: "08",
+    category: "Fullstack",
+    title: "Teaware E-commerce",
+    description: "Teaware E-commerce is an e-commerce platform specializing in providing high-end teaware products, helping users easily search, select and shop for tea sets, teapots, tea trays, tea filters and many other accessories.",
+    stack: [{ name: "NextJS" }, { name: "Tailwin css" }],
+    image: "/assets/work/Teaware.png",
+    live: "https://tea-ware-fe.vercel.app/",
+    github: "https://github.com/BBoyFinger/Tea-ware-FE",
+  },
 ];
 
 const Work = () => {
